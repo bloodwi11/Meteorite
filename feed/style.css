@@ -1,0 +1,58 @@
+
+body {
+	background: #ffffff;
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	font-size: 9px;
+}
+
+.header {
+	background: #262829;
+	padding: 20px;
+	padding: 8px 10px;
+	font-weight: bold;
+	font-size: 110%;
+	text-align: center;
+}
+
+h2 {
+	font-size: 140%;
+	font-weight: bold;
+	border-top: 2px solid #CCCCCC;
+	margin: 10px 0 6px 0;
+	padding: 3px 0 0 0;
+}
+
+h3 {
+	font-size: 110%;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+br {
+	clear: both;
+}
+
+.content {
+	padding: 12px 10px 10px 10px;
+}
+
+.modpacks div {
+	margin: 2px 3px;
+	padding: 8px 3px 5px 3px;
+	border-bottom: 1px dotted #CCC;
+}
+
+ul {
+	margin: 5px 0 5px 15px;
+}
+
+.meta {
+	color: #444444;
+	margin: 5px 0 20px 0;
+	padding: 0;
+	text-transform: uppercase;
+}
