@@ -1,0 +1,15 @@
+{
+  "name":"Meteorite",
+  "title":"Meteorite (0.1a)",
+  "gameVersion":"1.7.10",
+  "version":"0.1a",
+  "launch": {
+    "flags":[]
+  },
+  "userFiles": {
+    "include": [
+      "Config/example.cfg",
+      "options.txt"
+    ]
+  }
+}
