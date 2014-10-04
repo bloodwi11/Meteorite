@@ -5,11 +5,5 @@
   "version":"0.1a",
   "launch": {
     "flags":[]
-  },
-  "userFiles": {
-    "include": [
-      "Config/example.cfg",
-      "options.txt"
-    ]
   }
 }
