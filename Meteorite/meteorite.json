@@ -1,10 +1,11 @@
 {
-  "name":"Meteorite",
   "title":"Meteorite (0.1a)",
-  "gameVersion":"1.7.10",
+  "name":"Meteorite",
   "version":"0.1a",
-  "librariesLocation": "libraries"
-  "launch": {
+  "minimumVersion":2,
+  "objectsLocation":"objects",
+  "gameVersion":"1.7.10",
+  "launch":{
     "flags":[]
   }
 }
