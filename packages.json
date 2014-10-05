@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "Meteorite", 
-      "title": "Meteorite (0.1a)", 
+      "title": "Meteorite (0.2a)", 
       "version": "1.7.10", 
       "location": "Meteorite/manifest.json", 
       "priority": 1
