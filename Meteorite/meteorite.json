@@ -8,5 +8,6 @@
   },
   "userFiles": {
     "include": [
-      "config/*.cfg",
+      "config/*.cfg",]
+  }
 }
