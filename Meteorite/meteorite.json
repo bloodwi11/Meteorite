@@ -5,5 +5,8 @@
   "version":"0.1a",
   "launch": {
     "flags":[]
-  }
+  },
+  "userFiles": {
+    "include": [
+      "config/*.cfg",
 }
