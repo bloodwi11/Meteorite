@@ -3,11 +3,8 @@
   "title":"Meteorite (0.1a)",
   "gameVersion":"1.7.10",
   "version":"0.1a",
+  "librariesLocation": "libraries"
   "launch": {
     "flags":[]
-  },
-  "userFiles": {
-    "include": [
-      "config/*.cfg",]
   }
 }
