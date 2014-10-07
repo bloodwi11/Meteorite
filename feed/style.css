@@ -56,8 +56,9 @@ ul {
 	padding: 0;
 	text-transform: uppercase;
 }
+
 table {
-    border-collapse: collapsel
+    border-collapse: collapse;
 }
 
 table, td, th {
