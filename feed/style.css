@@ -56,3 +56,10 @@ ul {
 	padding: 0;
 	text-transform: uppercase;
 }
+table {
+    border-collapse: collapsel
+}
+
+table, td, th {
+    border: 1px solid black;
+}
