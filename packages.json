@@ -4,14 +4,14 @@
     {
       "name": "Meteorite", 
       "title": "Meteorite (0.2a)", 
-      "version": "1.7.10", 
+      "version": "0.2a", 
       "location": "Meteorite/manifest.json", 
       "priority": 1
     },
     {
       "name": "Meteorite-Dev", 
       "title": "Meteorite-Dev (1.0)", 
-      "version": "1.7.10", 
+      "version": "1.0", 
       "location": "Meteorite-Dev/manifest.json", 
       "priority": 2
     },
