@@ -10,17 +10,15 @@
     },
     {
       "name": "Meteorite-Dev", 
+<<<<<<< HEAD
       "title": "Meteorite-Dev (1.5)", 
       "version": "1.5", 
+=======
+      "title": "Meteorite-Dev (1.4)", 
+      "version": "1.4", 
+>>>>>>> origin/gh-pages
       "location": "Meteorite-Dev/manifest.json", 
       "priority": 2
-    },
-    {
-      "name": "Vanilla", 
-      "title": "Vanilla (1.7.10)", 
-      "version": "1.7.10", 
-      "location": "Vanilla-1.7.10/manifest.json", 
-      "priority": 3
     }
   ]
 }
